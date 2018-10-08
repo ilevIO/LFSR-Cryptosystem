@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.280,C:\Users\ilya\Documents\Embarcadero\Studio\Projects\Unit3.h=C:\TI Lab2\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.206,C:\Users\ilya\Documents\Embarcadero\Studio\Projects\Project4PCH1.h=C:\TI Lab2\Lab2CPP.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.694,C:\Users\ilya\Documents\Embarcadero\Studio\Projects\Project4.cbproj=C:\TI Lab2\Lab2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.280,C:\Users\ilya\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\TI Lab2\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.985,=C:\Users\ilya\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.126,=C:\Users\ilya\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.204,=C:\Users\ilya\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.097,=C:\Users\ilya\Documents\Embarcadero\Studio\Projects\Project4PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.280,C:\Users\ilya\Documents\Embarcadero\Studio\Projects\Unit3.cpp=C:\TI Lab2\Main.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
